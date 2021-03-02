@@ -1,5 +1,0 @@
-.. _about-templating:
-
-==========
-Templating
-==========

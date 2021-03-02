@@ -1,5 +1,0 @@
-.. _prerequisites-software:
-
-========
-Software
-========
